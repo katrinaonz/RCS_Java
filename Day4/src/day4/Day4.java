@@ -17,7 +17,7 @@ public class Day4 {
     public static void main(String[] args) {
         // TODO code application logic here
        Uzdevums uzd = new Uzdevums();
-       uzd.masivuIzvade();
+       uzd.Masivi2();
     }
     
 }
